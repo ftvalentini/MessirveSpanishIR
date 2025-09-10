@@ -20,8 +20,6 @@ Cite as:
 }
 ```
 
-Francisco Valentini, Viviana Cotik, Damián Furman, Ivan Bercovich, Edgar Altszyler, Juan Manuel Pérez
-
 
 ## Set up
 
